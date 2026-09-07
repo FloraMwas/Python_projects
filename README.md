@@ -120,12 +120,9 @@ The difference between the training and testing scores is relatively moderate, s
 
 The project can include visualizations such as:
 
-* Correlation heatmap
-* Feature vs. target scatter plots
-* Actual vs. predicted values
-* Residual plot
+
 * Distribution of housing prices
-* Regression model coefficients
+* Distribution of features
 
 These visualizations help explore the relationships in the data and evaluate the performance of the regression model.
 
